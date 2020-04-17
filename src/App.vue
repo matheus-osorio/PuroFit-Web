@@ -18,6 +18,7 @@ export default {
 <style>
 :root{
     --nav-height:50px;
+    --empty-space-graph:100px;
 }
 
 #app {
